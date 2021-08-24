@@ -11,7 +11,9 @@ Foram desenvolvidos para atingir o objetivo:
 Utilizei os seguintes requisitos para a execução do projeto: 
 
 * Java 15 
-* Maven
+* JUnit 5, para os testes unitários
+* Selenium, para automatizar os testes
+* Maven, para organizar as dependências do projeto
 * Eclipse, como IDE
 * Selenium para automatizar os testes
 * Conta no GitHub para armazenar o projeto na nuvem
